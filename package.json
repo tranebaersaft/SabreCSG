@@ -1,0 +1,8 @@
+{
+    "name": "com.sabresaurus.sabrecsg",
+    "displayName": "SabreCSG",
+    "version": "1.8.0",
+    "unity": "2018.3",
+    "description": "Level design tools for Unity",
+    "dependencies": { }
+}
